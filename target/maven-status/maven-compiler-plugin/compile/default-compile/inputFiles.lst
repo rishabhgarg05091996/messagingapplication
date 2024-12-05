@@ -1,0 +1,13 @@
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/dto/StatisticsResponse.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/dto/MessageResponse.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/exception/GlobalExceptionHandler.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/dto/SendMessageRequest.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/entity/MessageRecipient.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/BackendApplication.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/entity/User.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/repository/UserRepository.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/service/MessageService.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/controller/MessageController.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/entity/Message.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/repository/MessageRepository.java
+/Users/rishabhgarg/Downloads/codingassignment/src/main/java/fi/invian/codingassignment/exception/UserNotFoundException.java

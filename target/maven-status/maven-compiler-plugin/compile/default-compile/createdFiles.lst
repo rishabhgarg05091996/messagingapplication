@@ -1,0 +1,13 @@
+fi/invian/codingassignment/entity/MessageRecipient.class
+fi/invian/codingassignment/entity/User.class
+fi/invian/codingassignment/entity/Message.class
+fi/invian/codingassignment/repository/UserRepository.class
+fi/invian/codingassignment/controller/MessageController.class
+fi/invian/codingassignment/exception/UserNotFoundException.class
+fi/invian/codingassignment/dto/SendMessageRequest.class
+fi/invian/codingassignment/exception/GlobalExceptionHandler.class
+fi/invian/codingassignment/dto/StatisticsResponse.class
+fi/invian/codingassignment/BackendApplication.class
+fi/invian/codingassignment/service/MessageService.class
+fi/invian/codingassignment/dto/MessageResponse.class
+fi/invian/codingassignment/repository/MessageRepository.class
